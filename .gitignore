@@ -1,5 +1,6 @@
 test-agent/greeting_agent/.env
 tool-agent/search_agent/.env
 litellm/gpt_oss_agent/.env
+structured_output/email_agent/.env
 .venv
 .idea

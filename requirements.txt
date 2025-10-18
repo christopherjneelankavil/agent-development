@@ -4,3 +4,4 @@ litellm~=1.78.3
 google-generativeai
 python-dotenv~=1.1.1
 protobuf~=5.29.5
+pydantic~=2.12.3
