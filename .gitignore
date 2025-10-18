@@ -1,3 +1,4 @@
 test-agent/greeting_agent/.env
+tool-agent/search_agent/.env
 .venv
 .idea
