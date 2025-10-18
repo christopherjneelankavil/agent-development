@@ -31,4 +31,5 @@ root_agent = Agent(
     # specify the tool needed to be used here
     tools=[google_search],
     # tools=[get_current_date_and_time]
+    # can only use one tool at a time
 )
